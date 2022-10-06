@@ -1,0 +1,12 @@
+{
+  "model": "MauserC96",
+  "year": "1896",
+  "origin": "Germany",
+  "isMauser": true,
+  "Production": ["Germany", "China"],
+  "Users": ["Austro-Hungary", "Ottomans"],
+  "Produced Number": {
+    "military": 450,
+    "civilian": 450
+  }
+}
